@@ -28,7 +28,7 @@ Data encrypted today with RSA or ECC can be harvested now and decrypted later, o
 AryZam separates **technical risk** from **regulatory meaning**:
 
 - **Layer 1: Risk engine.** Quantum risk modelling (Mosca's inequality, HNDL exposure, Q-Day horizons).
-- **Layer 2: Regulatory translation.** Maps findings to framework controls. For ENS this includes controls such as `mp.com.2`, `mp.info.3`, `op.exp.11`, `op.pl.1` and `op.pl.2`, aligned with the CCN-STIC guidance chain (807, 825, 892).
+- **Layer 2: Regulatory translation.** Maps findings to framework controls. For ENS this includes controls such as `mp.com.2`, `mp.info.3`, `op.exp.10`, `op.pl.1` and `op.pl.2`, aligned with the CCN-STIC guidance chain (807, 825, 892).
 
 A CI gate can fail a pipeline when new quantum-vulnerable cryptography is introduced.
 
