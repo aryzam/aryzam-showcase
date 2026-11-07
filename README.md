@@ -34,7 +34,7 @@ A CI gate can fail a pipeline when new quantum-vulnerable cryptography is introd
 
 ## Status
 
-- Scanner **v0.4.0**, with **80 automated tests** passing
+- Scanner **v0.3.3**, with **77 automated tests** passing
 - Validated against a live AWS sandbox (ACM / KMS)
 - DORA / NIS2 / ENS compliance mapping and executive PDF reporting in place
 
